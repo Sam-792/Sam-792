@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sam-792
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis process on Udemy
-- 💞️ I’m looking to collaborate on some Data Science projects
+- 👋 Hi, I’m Sameh Taha
+- 👀 I’m a planning engineer with deep interest and passion in Data Science.
+- 🌱 I’m currently working on my Data Analysis skills through projects.
+- 💞️ I’m looking to collaborate on some Data Science projects.
 - 📫 https://www.linkedin.com/in/samehhani/
 
 <!---
