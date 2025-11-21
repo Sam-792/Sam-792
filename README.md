@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sameh Taha
-- 👀 I’m a planning engineer with deep interest and passion for Data Science and ML.
+- 👀 I’m a Data Analyst/ engineer with deep interest and passion for Data Science and ML.
 - 🌱 I’m currently working on my Data Analysis skills through projects.
 - 💞️ I’m looking to collaborate on some Data Science projects.
 - 📫 https://www.linkedin.com/in/samehhani/
